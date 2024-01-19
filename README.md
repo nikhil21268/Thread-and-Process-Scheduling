@@ -1,6 +1,6 @@
 # Thread and Process Scheduling
 ## Operating Systems Assignment
-Implemented Thread and Process Scheduling using "pthreads" and "fork" System Call
+Implemented Thread and Process Scheduling using "pthreads" and "fork" System Call.
 
 # Problem Statement
 
